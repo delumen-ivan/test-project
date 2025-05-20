@@ -5,5 +5,6 @@ public class test {
 		System.out.println("gagana na kaya??");
 		System.out.println("tanginamo");
 		System.out.println("Hi");
+		System.out.println("Hello");
 	}
 }
