@@ -6,4 +6,4 @@ public class test {
 		System.out.println("tanginamo");
 		System.out.println("Hi");
 	}
-}
+}a
